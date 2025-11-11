@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Fabricio! 👋<br><br>🧠I'm a Software Development Intern<br><br>📒Information Systems student at Institute Federal of São Paulo <br>
+## Hi, I'm Fabricio! 👋<br><br>🧠I'm a Software Development<br><br>📒Information Systems student at Institute Federal of São Paulo <br>
 
 
 ## 🌐 Socials:
